@@ -1,0 +1,3 @@
+﻿  курсач егора.cpp
+C:\Users\danya\source\repos\курсач егора\курсач егора\курсач егора.cpp(240,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  курсач егора.vcxproj -> C:\Users\danya\source\repos\курсач егора\x64\Debug\курсач егора.exe
